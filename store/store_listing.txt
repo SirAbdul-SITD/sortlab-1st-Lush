@@ -1,0 +1,42 @@
+═══════════════════════════════════════════
+SORTLAB — PLAY STORE LISTING
+com.lushdevs.sortlab
+═══════════════════════════════════════════
+
+APP TITLE (max 50 chars):
+SortLab: Ball Sort Puzzle
+
+SHORT DESCRIPTION (max 80 chars):
+Pour glowing orbs between tubes until every color is pure. 150 lab puzzles!
+
+FULL DESCRIPTION:
+🧪 POUR. SORT. PERFECT. 🧪
+
+Welcome to the lab! Every test tube is a scrambled mess of glowing orbs, and only you can fix it. Tap a tube to lift its top orbs, tap another to pour — but orbs only land on a matching color or empty glass. Sort every tube until each one glows a single pure color.
+
+⚗️ HOW TO PLAY
+• Tap a tube — its top orbs rise above the rim
+• Tap another tube to pour them in
+• Orbs only pour onto the SAME color or into empty space
+• Matching orbs pour together in one move
+• Make every tube one pure color to win!
+
+✨ FEATURES
+• 150 puzzles: Easy (4–6 colors), Medium (7–8), Hard (9–10)
+• Every single level is verified solvable by a built-in solver — no impossible deals, ever
+• Smart par system: the solver's own solution sets the target — beat it for 3 stars
+• Unlimited undo for fearless experimenting
+• Gorgeous glassy tubes, glowing orbs and a bubbling lab ambiance
+• Relaxing ambient soundtrack
+• Haptic feedback
+• 100% offline, no ads, no purchases, zero data collection
+
+🧠 THE SORTING GENRE, DONE RIGHT
+No fake unsolvable boards, no ad walls, no energy timers. Just pure, satisfying color sorting with an honest par to chase.
+
+Put on your lab coat and start pouring! 🧪
+
+CATEGORY: Games > Puzzle
+CONTENT RATING: Everyone
+PRICE: Free
+TAGS: ball sort, water sort, color sort, tube, puzzle, sorting, logic, relax, brain, lab
